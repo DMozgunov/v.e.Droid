@@ -1,0 +1,14 @@
+## Module report - date 02.11.2009 20:30:05
+## Created by PcbNew version PCBnew (20090216-final)
+## Unit = inches, Angle = deg.
+##
+
+$BeginDESCRIPTION
+
+$BOARD
+unit INCH
+upper_left_corner  0.000000  0.000000
+lower_right_corner 11.700000  8.267000
+$EndBOARD
+
+$EndDESCRIPTION

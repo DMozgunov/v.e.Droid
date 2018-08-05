@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0  18.11.2009 17:34:34
+#
+$CMP CONN_6
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+#End Doc Library
