@@ -1,2 +1,2 @@
 # v.e.Droid
-This wal my diploma project in 2009/10. Chematics, firmware (PIC16F887) in assembly
+This was my diploma project in 2009/10. Schematics made in KiCad, homemade PCB's with controller(PIC16F887) and sensors, firmware written in assembly with the help of MPLAB 8.
